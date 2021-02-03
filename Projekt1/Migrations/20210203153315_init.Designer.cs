@@ -9,7 +9,7 @@ using Projekt1.Context;
 namespace Projekt1.Migrations
 {
     [DbContext(typeof(InstrukcjaDbContext))]
-    [Migration("20210202170604_init")]
+    [Migration("20210203153315_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
